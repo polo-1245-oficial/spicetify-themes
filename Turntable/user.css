@@ -425,3 +425,29 @@
     transform: rotate(360deg)
   }
 }
+
+
+/* AMIGOS CODE ROBAO DE ESTE https://github.com/polo-1245-oficial/spicetify-themes/blob/master/Ziro/user.css */
+
+.main-buddyFeed-addFriendsContainer {
+  background-color: var(--spice-sidebar);
+}
+.main-buddyFeed-friendActivity {
+  padding: 8px;
+  margin: 8px;
+  background: var(--spice-card);
+  border-radius: var(--br-1);
+}
+.HdRGC,
+.eEsqRZ,
+.main-buddyFeed-usernameAndTimestamp a {
+  color: var(--spice-text) !important;
+}
+.main-buddyFeed-activityMetadata > :not(:first-child) a,
+.main-buddyFeed-timestamp {
+  color: var(--spice-subtext) !important;
+}
+.main-avatar-avatar.vreGJrlRqoFkzlSQwvsJ:after {
+  background: var(--spice-text);
+  box-shadow: none;
+}
